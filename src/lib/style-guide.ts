@@ -7,6 +7,7 @@ export enum FontWeights {
 export enum Colors {
   // Primary
   AccordBlue = '#1b76de',
+  AccordBlue1 = '#4991E5',
   Border = '#d1e3f8',
 
   // Standard
@@ -39,7 +40,8 @@ export enum Colors {
 export enum FontSizes {
   small = 'font-size: 10px',
   medium = 'font-size: 12px',
-  large = 'font-size: 14px'
+  large = 'font-size: 14px',
+  extraLarge = 'font-size: 20px'
 }
 
 export enum UI {
